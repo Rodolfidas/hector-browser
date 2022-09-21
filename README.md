@@ -1,4 +1,4 @@
-![Logo](assets/hector_project_header.png)
+![Logo](hector_project_header.png)
 ## Sobre o Projeto
 - ### Recriar página principal do google;
 - > ### Link: https://www.youtube.com/watch?v=KgjzE1Sxtq0
@@ -14,12 +14,12 @@
 ## Visão Geral do Projeto
 
 
-![Projeto](assets/hector_project.png)
+![Projeto](hector_project.png)
 
 
 ## Visão Geral do Projeto - Modo Responsivo
 
 
-![Projeto2](assets/hector_project2.png)
+![Projeto2](hector_project2.png)
 
 
